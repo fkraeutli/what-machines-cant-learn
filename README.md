@@ -72,6 +72,7 @@ Depending on the course requirements, different outcomes may be expected from st
 - a research paper on the topic
 - a seminar presentation on one of the reading assignemts
 - an individual project that builds on one of the hands-on exercises
+
 When I taught the course I let students work on individual projects and allocated time during the seminar to work on them (Sessions 6 and 7). Students presented their projects during the final session.
 
 
