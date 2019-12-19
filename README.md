@@ -4,7 +4,7 @@
 
 On these pages you will find the syllabus and related material for my course _What Machines Can't Learn_, which [took place](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=163377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the [Humboldt University](http://www.hu-berlin.de) in Berlin during the winter semester of 2019/20. 
 
-The course is directed at students from all kinds of disciplines who are interested in Artificial Intelligence, its limits, its societal impact and its technical underpinning. The title is borrowed from Hubert Dreyfus' 1972 book [What Computers Can't Do](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence).
+The course is directed at students from all kinds of disciplines who are interested in Artificial Intelligence, its limits, its societal impact and its technical underpinning. The title is borrowed from Hubert Dreyfus' 1972 book [What Computers Can't Do](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/itemKey/IGCB7HF8).
 
 
 The aim of the course is to equip students with the knowledge to **understand the capabilities** of current machine learning approaches, to **critically evaluate** claims about their promises, and to **recognise the role and influence** artificial intelligence plays in current culture and society. 
@@ -17,11 +17,13 @@ _Image created by author with [RunwayML](http://www.runwayml.com) using the [Big
 
 ## What you will find here
 
-I provided, for each session: 
+Each session contains: 
 - slides and lecture notes
 - references to the reading material and, where possible, links to the material itself
-- links to practical exercises
-- Jupyter Notebooks of the hands-on exercises, where applicable
+- practical exercises in the form of
+    - descriptions
+    - links to resources
+    - [Jupyter](https://jupyter.org/) Notebooks
 
 Due to how rapid the field of AI develops, much of this material may be outdated by the time you read this. Contributions of new relevant material and exercises are therefore very much welcome! Feel free to submit a pull request or open an [issue](https://github.com/fkraeutli/what-machines-cant-learn/issues).
 
@@ -70,7 +72,6 @@ When I taught the course I let students work on individual projects and allocate
 ## Acknowledgements
 
 The seminar was part of the programme [Vielfalt der Wissensformen](https://bolognalab.hu-berlin.de/de/projekte-des-bologna.labs/vielfalt-der-wissensformen) of the [bologna.lab](https://bolognalab.hu-berlin.de/). It is funded by [Federal Ministry of Education and Research](http://bmbf.de/).
-Florian Kräutli is employed at the [Max Planck Institute for the History of Science](http://www.mpiwg-berlin.mpg.de).
+Florian Kräutli is based at the [Max Planck Institute for the History of Science](http://www.mpiwg-berlin.mpg.de).
 
 ![Supported by the BMBF](https://bolognalab.hu-berlin.de/de/bmbf_logo/image_preview)
-
