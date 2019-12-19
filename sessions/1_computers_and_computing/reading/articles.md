@@ -49,7 +49,7 @@
 - The computer-generated cookbook: just the thing for a hungry digital age
     - article: https://www.theguardian.com/books/2015/jan/27/computer-generated-cookbook-chef-watson-ibm
 - What can I eat in pregnancy? App aims to answer with help from IBM's Watson
-    article: https://www.theguardian.com/sustainable-business/2015/dec/21/what-eat-pregnancy-app-nutrino-ibm-watson-supercomputer  
+    - article: https://www.theguardian.com/sustainable-business/2015/dec/21/what-eat-pregnancy-app-nutrino-ibm-watson-supercomputer  
 - World’s largest hedge fund to replace managers with artificial intelligence
-    article: https://www.theguardian.com/technology/2016/dec/22/bridgewater-associates-ai-artificial-intelligence-management
+    - article: https://www.theguardian.com/technology/2016/dec/22/bridgewater-associates-ai-artificial-intelligence-management
 		
