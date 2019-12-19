@@ -40,7 +40,7 @@ No prior experience in coding or any other technical skills beyond basic usage o
 ### Seminar Structure
 The course is structured into eight sessions tackling the following six topics:
 1. [Computers and Computing](./sessions/1_computers_and_computing/session_1_computers_and_computing.md)
-2. Data
+2. [Data](./sessions/2_data/session_2_data.md)
 3. Artificial Intelligence
 4. Machine Learning
 5. Machine Creativity
