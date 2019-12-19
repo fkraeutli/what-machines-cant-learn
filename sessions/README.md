@@ -1,3 +1,5 @@
+[Home](/) /  Sessions
+
 # Seminar Structure
 
 ## Session 1: Computers and Computing
