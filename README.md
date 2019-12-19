@@ -1,4 +1,6 @@
+
 # What Machines Can't Learn
+[Florian Kräutli](http://www.kraeutli.com)  – [@fkraeutli](http://www.twitter.com/fkraeutli)
 
 On these pages you will find the syllabus and related material for my course _What Machines Can't Learn_, which [took place](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=163377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the [Humboldt University](http://www.hu-berlin.de) in Berlin during the winter semester of 2019/20. 
 
