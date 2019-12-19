@@ -6,6 +6,9 @@ The course is directed at students from all kinds of disciplines who are interes
 
 The aim of the course is to equip students with the knowledge to understand the capabilities of current machine learning approaches, to critically evaluate claims about their promises, and to recognise the wider influence artificial intelligence has in culture and society. 
 
+
+:point_right: **Go to** [sessions](sessions/README.md)
+
 ## What you will find here
 
 I provided, for each session: 
