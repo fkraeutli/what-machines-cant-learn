@@ -1,6 +1,9 @@
 # Session 1: Computers and Computing
 
 ## Lecture
+
+> **Slides**: [Computers and Computing](lecture/slides_computers_and_computing.md)
+
 A brief history of computers provides the background to introduce Turing's concept of a universal computing machine, the Turing Machine. The argument is made that the Turing Machine was brought forward to demonstrate the limits of computing and, by extension, artificial intelligence. Turing's own arguments against strong AI are presented as well.
 Algorithms are introduced as a set of steps that (are guaranteed to) accomplish a certain tasks.
 The lecture contains an **in-class exercise**. Students are invited to guess a number between 1 and 100 and receive feedback on whether the number they suggest is higher or lower than the number that the presenter has in mind. They then may answer the questions:
