@@ -12,7 +12,7 @@
 
 ## Articles
 
-> These articles and papers have been selected by the students. Feel free to add more. Please also add the article to the [Internet Archive](http://www.archive.org) to prevent link rot.
+> These articles and papers have been selected by the students. Feel free to add more. Please also add the article to the [Internet Archive](https://help.archive.org/hc/en-us/articles/360001513491-Save-Pages-in-the-Wayback-Machine) to prevent link rot.
 
 		
 - Can Google’s Deep Dream become an art machine?
