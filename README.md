@@ -1,10 +1,11 @@
 # What Machines Can't Learn
 
-On these pages you will find the syllabus and related material for my course _What Machines Can't Learn_, which took place at the Humboldt University in Berlin during the winter semester of 2019/20. 
-The course is directed at students from all kinds of disciplines who are interested in Artificial Intelligence, its limits, its societal impact and its technical underpinning. The title is borrowed from Hubert Dreyfus' 1972 book _What Computers Can't Do_.
+On these pages you will find the syllabus and related material for my course _What Machines Can't Learn_, which [took place](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=163377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the [Humboldt University](http://www.hu-berlin.de) in Berlin during the winter semester of 2019/20. 
+
+The course is directed at students from all kinds of disciplines who are interested in Artificial Intelligence, its limits, its societal impact and its technical underpinning. The title is borrowed from Hubert Dreyfus' 1972 book [What Computers Can't Do](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence).
 
 
-The aim of the course is to equip students with the knowledge to understand the capabilities of current machine learning approaches, to critically evaluate claims about their promises, and to recognise the wider influence artificial intelligence has in culture and society. 
+The aim of the course is to equip students with the knowledge to **understand the capabilities** of current machine learning approaches, to **critically evaluate** claims about their promises, and to **recognise the role and influence** artificial intelligence plays in current culture and society. 
 
 
 :point_right: **Go directly to** [sessions](sessions/README.md)
