@@ -1,4 +1,4 @@
-[Home](/) /  Sessions
+[Home](../) /  Sessions
 
 # Seminar Structure
 
