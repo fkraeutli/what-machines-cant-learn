@@ -7,7 +7,10 @@ The course is directed at students from all kinds of disciplines who are interes
 The aim of the course is to equip students with the knowledge to understand the capabilities of current machine learning approaches, to critically evaluate claims about their promises, and to recognise the wider influence artificial intelligence has in culture and society. 
 
 
-:point_right: **Go to** [sessions](sessions/README.md)
+:point_right: **Go directly to** [sessions](sessions/README.md)
+
+![Title Image](titleImage.jpeg)
+_Image created by author with [RunwayML](http://www.runwayml.com) using the [BigGAN](https://github.com/agermanidis/biggan) model and upscaled using [ESRGAN](https://github.com/xinntao/ESRGAN)_
 
 ## What you will find here
 
