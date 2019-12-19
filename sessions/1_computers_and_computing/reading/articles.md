@@ -1,3 +1,6 @@
+[Home](../../../README.md) / [Sessions](../../README.md) / [Session 1: Computers and Computing](../README.md) / Reading
+
+
 # Session 1: Computers and Computing
 
 - Find a (current) newspaper article about an algorithm

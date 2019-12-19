@@ -1,3 +1,5 @@
+[Home](../../README.md) / [Sessions](../README.md) / Session 1: Computers and Computing
+
 # Session 1: Computers and Computing
 
 ## Lecture
@@ -25,7 +27,7 @@ As this is the first session, there will be no student-prepared presentation of 
 
 Each student then gives a brief summary of the article they read, which is followed by a discussion.
 
-:point_right: See [articles and papers](reading/articles.d) that have been picked by students
+:point_right: See [articles and papers](reading/articles.md) that have been picked by students
 
 
 ## Hands-On

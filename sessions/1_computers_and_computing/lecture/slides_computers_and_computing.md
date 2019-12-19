@@ -1,3 +1,5 @@
+[Home](../../../README.md) / [Sessions](../../README.md) / [Session 1: Computers and Computing](../README.md) / Slides
+
 # Session 1
 
 ## Computers & Computing
