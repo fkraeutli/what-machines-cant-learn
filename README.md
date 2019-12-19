@@ -16,6 +16,7 @@ I provided, for each session:
 
 Due to how rapid the field of AI develops, much of this material may be outdated by the time you read this. Contributions of new relevant material and exercises are therefore very much welcome!
 
+> **Hint** The lecture slides use the [RemarkJS](https://remarkjs.com/) format. You can view them, for example,through [Remarkise](https://remarkjs.com/remarkise). Press _p_ on your keyboard to acccess presenter mode.
 
 ## About the Course
 
