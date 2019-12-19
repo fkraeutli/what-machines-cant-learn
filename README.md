@@ -65,3 +65,10 @@ Depending on the course requirements, different outcomes may be expected from st
 When I taught the course I let students work on individual projects and allocated time during the seminar to work on them (Sessions 6 and 7). Students presented their projects during the final session.
 
 
+## Acknowledgements
+
+The seminar was part of the programme [Vielfalt der Wissensformen](https://bolognalab.hu-berlin.de/de/projekte-des-bologna.labs/vielfalt-der-wissensformen) of the [bologna.lab](https://bolognalab.hu-berlin.de/). It is funded by [Federal Ministry of Education and Research](http://bmbf.de/).
+Florian Kräutli is employed n the [Max Planck Institute for the History of Science](http://www.mpiwg-berlin.mpg.de).
+
+![Supported by the BMBF](https://bolognalab.hu-berlin.de/de/bmbf_logo/image_preview)
+
