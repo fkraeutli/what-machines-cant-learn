@@ -1,4 +1,4 @@
-[Home](../) /  Sessions
+[Home](../README.md) /  Sessions
 
 # Seminar Structure
 
