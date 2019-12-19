@@ -36,7 +36,7 @@
 - How Spotify’s Algorithm Knows Exactly What You Want to Listen To
 	- article: https://onezero.medium.com/how-spotifys-algorithm-knows-exactly-what-you-want-to-listen-to-4b6991462c5c
 - Iamus, classical music's computer composer, live from Malaga
-    article: https://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music
+    - article: https://www.theguardian.com/music/2012/jul/01/iamus-computer-composes-classical-music
 - Inceptionism: Going Deeper into Neural Networks
 	- article: https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 	- paper: https://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731
