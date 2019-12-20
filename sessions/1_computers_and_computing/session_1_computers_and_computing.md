@@ -15,6 +15,17 @@ The lecture contains an **in-class exercise**. Students are invited to guess a n
 - Which strategies are algorithms, i.e. are guaranteed to succeed?
 	- e.g. shouting out random numbers may result in eventually finding the correct number, but is not guaranteed to succeed. Adding a memory that only produces random numbers that have not yet been suggested would succeed however.
 
+
+### Works cited
+
+Dreyfus, H. (1972). What Computers Can’t Do. Retrieved from https://archive.org/details/whatcomputerscan017504mbp
+
+Hicks, M. (2017). Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing. Cambridge, MA: MIT Press.
+
+Turing, A. M. (1937). On Computable Numbers, with an Application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, s2-42(1), 230–265. https://doi.org/10.1112/plms/s2-42.1.230
+
+Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
+
 ## Reading
 
 As this is the first session, there will be no student-prepared presentation of the reading material. Instead students are invited to:
@@ -28,16 +39,6 @@ As this is the first session, there will be no student-prepared presentation of 
 Each student then gives a brief summary of the article they read, which is followed by a discussion.
 
 :point_right: See [articles and papers](reading/articles.md) that have been picked by students
-
-### Works cited
-
-Dreyfus, H. (1972). What Computers Can’t Do. Retrieved from https://archive.org/details/whatcomputerscan017504mbp
-
-Hicks, M. (2017). Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing. Cambridge, MA: MIT Press.
-
-Turing, A. M. (1937). On Computable Numbers, with an Application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, s2-42(1), 230–265. https://doi.org/10.1112/plms/s2-42.1.230
-
-Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
 
 :point_right: Bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
 
