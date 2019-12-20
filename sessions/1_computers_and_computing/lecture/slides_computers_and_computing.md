@@ -91,6 +91,23 @@ _Image: ZME Science via Computer History Museum_
 
 ---
 
+### Women Computers
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">✨computing, 1960s style✨<br><br>✔️first you get a computer✨<br><br>✔️then you cram it through an upstairs window because it won&#39;t make it up the stairwell✨✨<br><br>✔️then you have ladies do the data input (and often the programming). but keep quiet about that part✨✨✨ <a href="https://t.co/EgdqgcutcD">pic.twitter.com/EgdqgcutcD</a></p>&mdash; Mar Hicks (@histoftech) <a href="https://twitter.com/histoftech/status/1098455763419316225?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Hicks, Mar. Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing. Cambridge, MA: MIT Press, 2017.](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/itemKey/Y98EUTQ9/tag/Computers%20and%20Computing)
+
+
+???
+
+- also with arrival of electric computers, mostly women were hired to operate and program them, as they could be hired for lower wages
+- while the work of women programmers became more and more demanding, it was nevertheless advertised as low-skilled work to hamper wages and career advancement
+- with growing prestige of programming, men entered the field and were paid more, while having much less experience than the women they replaced
+
+---
+
+
 ### Eniac
 
 ![Glen Beck (background) and Betty Snyder (foreground) program ENIAC in BRL building 328. (U.S. Army photo)](https://upload.wikimedia.org/wikipedia/commons/4/4e/Eniac.jpg)
