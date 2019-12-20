@@ -2,6 +2,21 @@
 
 # Session 2: Data
 
+
+* [Lecture](#lecture)
+    * [Exercise 1: What data is produced when visiting a website](#exercise-1-what-data-is-produced-when-visiting-a-website)
+    * [Exercise 2: Explore data and traffic in Web Inspector](#exercise-2-explore-data-and-traffic-in-web-inspector)
+    * [Exercise 3: Manipulate data using Web Inspector](#exercise-3-manipulate-data-using-web-inspector)
+    * [Exercise 4: Download and inspect Facebook data](#exercise-4-download-and-inspect-facebook-data)
+    * [Exercise 5: Create a personality profile from Facebook data](#exercise-5-create-a-personality-profile-from-facebook-data)
+    * [Exercise 6: Find out what Facebook knows](#exercise-6-find-out-what-facebook-knows)
+    * [References](#references)
+* [Reading](#reading)
+    * [Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World](#performing-a-vanilla-self-respectability-politics-social-class-and-the-digital-world)
+    * [Psychological targeting as an effective approach to digital mass persuasion](#psychological-targeting-as-an-effective-approach-to-digital-mass-persuasion)
+    * [Weapons of Math Destruction](#weapons-of-math-destruction)
+* [Hands-On Exercise](#hands-on-exercise)
+
 ## Lecture
 
 > Slides: [Data](lecture/slides_data.md)
@@ -78,9 +93,38 @@ von Oertzen, C. (2017). Machineries of Data Power: Manual versus Mechanical Cens
 
 ## Reading
 
+### Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World
+
+_Mikaela Pitcan, Alice E. Marwick, Danah Boyd_
+
+Pitcan, M., Marwick, A. E., & Boyd, D. (2018). Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World. Journal of Computer-Mediated Commuication, 23, 163–179. https://doi.org/10.1093/jcmc/zmy008
+
+This paper gives voice to young people of low socio-economic status in New York who describe the strategies they (have to) use when presenting themseves on social media platforms.
+
+Rather than expressing their personality, they edit themselves to appear respectable towards a white middle and upper class audience. This includes "using standard English rather than African-American vernacular English" and not uploading photographs that could be used to make them appear less respectable:
+
+> available “unrespectable” images may be a danger for victims of color, as they are often used to justify negative media portrayals and the less respectable images yield less empathy among viewers and harsher public opinions
+
+The interviewed young people both self-police their online presence as well as the presence of their peers. Women of colour in particular face the need to promote morality and de-emphasize sexuality online in order to not be subjected to criticism and violence.
+
 ### Psychological targeting as an effective approach to digital mass persuasion
+
+_S.C. Matz, M. Kosinski, G. Nave, D.J. Stillwell_
+
+Matz, S. C., Kosinski, M., Nave, G., & Stillwell, D. J. (2017). Psychological targeting as an effective approach to digital mass persuasion. Proceedings of the National Academy of Sciences, 114(48), 12714–12719. https://doi.org/10.1073/pnas.1710966114
+
+The paper outlines how online advertisement can be more individually targeted when it is geared towards the recipients personality profile. Ads are matched for psychological trait such as introversion vs extraversion and level of openness to new experience.
+
+The personality traits are derived from social media data. Data from the [myPersonality.org](http://www.mypersonality.org) database is used for the study. This data has been removed in the aftermath of the [Cambridge Analytica scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal).
+
+What is striking in this study is that not a lot of data is needed to improve the performance of targeted advertising. A single like is enough to create a personality traits profile for a Facebook user.
 
 ### Weapons of Math Destruction
 
-Cathy O'Neill
+_Cathy O'Neill_
 
+O’Neill, C. (2016). Chapter 4: Propaganda Machine. In _Weapons of Math Destruction_. New York: Crown.
+
+
+
+## Hands-On Exercise
