@@ -2,3 +2,8 @@
 
 # Session 2: Data
 
+## Lecture
+
+> Slides:
+
+## Reading
