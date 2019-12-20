@@ -12,19 +12,47 @@ The lecture then continues to look at data on the web: how data is being transmi
 
 ### In-class exercises
 
-%% facebook data
+The following exercises appear in the lecture slides and can be done with the entire class. Some of them require a Facebook account. When doing these exercises, be sure to prepare an alternative or a dummy Facebook acount your students can use for those who do not have or do not want a Facebook account.
 
 #### Exercise 1: What data is produced when visiting a website
 
+In addition to the data that is being disclosed and transmitted as part of HTTP, websites can gather additional data through client side APIs and JavaScript. 
+
+[Artificial Senses](https://artificial-senses.kimalbrecht.com) is an experiment by [Kim Albrecht](http://www.kimalbrecht.com) that visualises some of the data that browsers are able to gather.
+
+Students are invited to explore the experiments on different devies.
+
+Data that websites have access to includes location data, mouse movements, touch, accelerometer and orientation sensors, webcam and microphone data etc. Only some of those (e.g. location, webcam and microphone) require a users consent. Mouse movements and orientation data, for instance, can be captured without users being aware.
+
 #### Exercise 2: Explore data and traffic in Web Inspector
+
+Most desktop browsers come with developer tools that let users inspect the code of websites, the data they store and traffic they create. In Chrome and Safari on MacOS it is available by pressing Command+Alt+I or by pressing F12 in Internet Explorer and Microsoft Edge.
+
+Students are invited to navigate to a website (e.g. their universitv website, a social nework) and look at the data the websites store (under Application->Local Storage). Facebook for instance stores a variety of data, for example drafts of status updates and comments.
+
+The Network tab provides insights into data that is being transmitted. Facebook in particular transmits data even when the user does not navigate the page. Combine this with the knowledge from the previous exercise about which data can be gathered.
 
 #### Exercise 3: Manipulate data using Web Inspector
 
+Another useful feature of the Web Inspector is that it allows you to manipulate the code of a website. By right clicking on an element and selecting Inspect this lets you edit the content.
+
+Ask students to create a fake Tweet.
+
 #### Exercise 4: Download and inspect Facebook data
+
+Request and download your Facebook data, or data from any other social media site. Look at the files and inspect their content. Consider what kind of data might be stored in addition to what Facebook is willing to give you.
 
 #### Exercise 5: Create a personality profile from Facebook data
 
+The website [applymagicsauce.com](http://applymagicsauce.com) allows you to upload your Facebook data along with data from other social networks in order to create a personality profile that can be used for advertising.
+
+Before completing this exercise, make sure that students understand the implications of uploading their data to a third-party website.
+
 #### Exercise 6: Find out what Facebook knows
+
+As we have seen when inspecting the personal data Facebook provided, a lot of data might be missing. To gain an insight into what kind of data Facebook stores and how it seeks to derive knowledge from it you can use their ad builder.
+
+The [Faceook Business](facebook.com/business) platform allows you to define an audience for your ad. The criteria that can be defined are very specific. Facebook provides a feedback of the audience size, meaning you can play with the parameters to find out more about the data Facebook holds.
 
 ### References
 
