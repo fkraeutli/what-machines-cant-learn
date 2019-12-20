@@ -29,6 +29,17 @@ Each student then gives a brief summary of the article they read, which is follo
 
 :point_right: See [articles and papers](reading/articles.md) that have been picked by students
 
+Works cited:
+
+Dreyfus, H. (1972). What Computers Can’t Do. Retrieved from https://archive.org/details/whatcomputerscan017504mbp
+
+Hicks, M. (2017). Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing. Cambridge, MA: MIT Press.
+
+Turing, A. M. (1937). On Computable Numbers, with an Application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, s2-42(1), 230–265. https://doi.org/10.1112/plms/s2-42.1.230
+
+Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
+
+:point_right: Bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
 
 ## Hands-On
 As a hands-on exercise, I gave a brief introduction to [Jupyter Notebooks](https://jupyter.org/) as some of the later exercises will make use of this. I suggested students to use [Google Colaboratory](https://colab.research.google.com/) as it comes already preloaded with many popular machine learning libraries and provides access to GPU and TPU powered cores.
