@@ -2,6 +2,13 @@
 
 # Session 1: Computers and Computing
 
+
+* [Lecture](#lecture)
+	* [Works cited](#works-cited)
+* [Reading](#reading)
+* [Hands-On Exercise](#hands-on-exercise)
+	* [Files](#files)
+
 ## Lecture
 
 > **Slides**: [Computers and Computing](lecture/slides_computers_and_computing.md)
@@ -42,7 +49,9 @@ Each student then gives a brief summary of the article they read, which is follo
 
 :point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
 
-## Hands-On
+## Hands-On Exercise
+
+
 As a hands-on exercise, I gave a brief introduction to [Jupyter Notebooks](https://jupyter.org/) as some of the later exercises will make use of this. I suggested students to use [Google Colaboratory](https://colab.research.google.com/) as it comes already preloaded with many popular machine learning libraries and provides access to GPU and TPU powered cores.
 
 Personally I found the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)to contain a good introduction of Jupyter Notebooks. It is however a paid course.
@@ -50,4 +59,5 @@ Personally I found the [Python for Data Science and Machine Learning Bootcamp](h
 Students with some programming experience may then try to implement the number guessing algorithm they formulated earlier in Python. Two implementations, one where the machine guesses a user's number and one where the machine competes against itself are offered in a Jupyter Notebook.
 
 ### Files
+
 - [Number\_Guessing\_Algorithm.ipynb](./hands_on/Number_Guessing_Algorithm.ipynb)
