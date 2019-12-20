@@ -6,37 +6,40 @@
 
 > Slides: [Data](lecture/slides_data.md)
 
-The lecture begins with a working definition of data, emphasising that data is not neutral and given, but something that has been collected. [Johanna Drucker's](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) concept of 'capta' is used to illustrate this. Recent work by [Catherine D'Ignazio and Lauren Klein](https://bookbook.pubpub.org/pub/zrlj0jqb), and [Mimi Onuoha](https://github.com/MimiOnuoha/missing-datasets) underline how the data that is being captured and – crucially – data that is not being recorded reflects structural racism and mysoginy. A brief history of data covers cuneiform tablets and punch cards. Early innovations in big data processing, relying on the idea of data records as well as women's labour, are discussed through research by [Christine von Oertzen](https://www.mpiwg-berlin.mpg.de/users/coertzen).
+The lecture begins with a working definition of data, emphasising that data is not neutral and given, but something that has been collected. [Johanna Drucker's](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) concept of 'capta' is used to illustrate this. Recent work by [Catherine D'Ignazio and Lauren Klein](https://bookbook.pubpub.org/pub/zrlj0jqb), and [Mimi Onuoha](https://github.com/MimiOnuoha/missing-datasets) underline how  data that is being captured and – crucially – data that is not being recorded reflects structural racism and mysoginy. A brief history of data covers cuneiform tablets and punch cards. Early innovations in big data processing, relying on the idea of data records as well as women's labour, are discussed through research by [Christine von Oertzen](https://www.mpiwg-berlin.mpg.de/users/coertzen).
 
 The lecture then continues to look at data on the web: how data is being transmitted, where it is captured and stored. This second part contains six hands-on exercises that are outline below.
 
 ### In-class exercises
 
-The following exercises appear in the lecture slides and can be done with the entire class. Some of them require a Facebook account. When doing these exercises, be sure to prepare an alternative or a dummy Facebook acount your students can use for those who do not have or do not want a Facebook account.
+The following exercises appear in the lecture slides and can be done with the entire class. Some of them require a Facebook account. When doing these exercises, be sure to prepare a dummy Facebook acount for your students to use for if they do not have or do not want a Facebook account.
 
 #### Exercise 1: What data is produced when visiting a website
 
 In addition to the data that is being disclosed and transmitted as part of HTTP, websites can gather additional data through client side APIs and JavaScript. 
 
-[Artificial Senses](https://artificial-senses.kimalbrecht.com) is an experiment by [Kim Albrecht](http://www.kimalbrecht.com) that visualises some of the data that browsers are able to gather.
+[Artificial Senses](https://artificial-senses.kimalbrecht.com) is an experiment by [Kim Albrecht](http://www.kimalbrecht.com) that visualises some of the data browsers are able to gather.
 
-Students are invited to explore the experiments on different devies.
+Students are invited to explore the experiments on different devices.
 
-Data that websites have access to includes location data, mouse movements, touch, accelerometer and orientation sensors, webcam and microphone data etc. Only some of those (e.g. location, webcam and microphone) require a users consent. Mouse movements and orientation data, for instance, can be captured without users being aware.
+Data that websites have access to includes location data, mouse movements, touch, accelerometer and orientation sensors, webcam and microphone data etc. Only some of those (e.g. location, webcam and microphone) require a user's consent. Mouse movements and orientation data, for instance, can be captured without users being made aware.
 
 #### Exercise 2: Explore data and traffic in Web Inspector
 
-Most desktop browsers come with developer tools that let users inspect the code of websites, the data they store and traffic they create. In Chrome and Safari on MacOS it is available by pressing Command+Alt+I or by pressing F12 in Internet Explorer and Microsoft Edge.
+Most desktop browsers come with developer tools that let users inspect the code of websites, the data they store and network traffic they create. In Chrome and Safari on MacOS it is available by pressing Command+Alt+I, or by pressing F12 in Internet Explorer and Microsoft Edge.
 
-Students are invited to navigate to a website (e.g. their universitv website, a social nework) and look at the data the websites store (under Application->Local Storage). Facebook for instance stores a variety of data, for example drafts of status updates and comments.
+Students are invited to navigate to a website (e.g. their university website, a social nework) and look at the data the websites store (under Application->Local Storage). Facebook for instance stores a variety of data, such as drafts of status updates and comments.
 
 The Network tab provides insights into data that is being transmitted. Facebook in particular transmits data even when the user does not navigate the page. Combine this with the knowledge from the previous exercise about which data can be gathered.
 
 #### Exercise 3: Manipulate data using Web Inspector
 
-Another useful feature of the Web Inspector is that it allows you to manipulate the code of a website. By right clicking on an element and selecting Inspect this lets you edit the content.
+Another useful feature of the Web Inspector is that it allows you to manipulate the code of a website. By right clicking on an element and selecting Inspect this lets you edit the content of a website.
 
 Ask students to create a fake Tweet.
+
+![A fake tweet](lecture/assets/fake_tweet.jpg)
+
 
 #### Exercise 4: Download and inspect Facebook data
 
@@ -52,7 +55,11 @@ Before completing this exercise, make sure that students understand the implicat
 
 As we have seen when inspecting the personal data Facebook provided, a lot of data might be missing. To gain an insight into what kind of data Facebook stores and how it seeks to derive knowledge from it you can use their ad builder.
 
-The [Faceook Business](facebook.com/business) platform allows you to define an audience for your ad. The criteria that can be defined are very specific. Facebook provides a feedback of the audience size, meaning you can play with the parameters to find out more about the data Facebook holds.
+The [Faceook Business](facebook.com/business) platform allows you to define an audience for an ad. The criteria that can be defined are very specific, such as political interests, association with other people, hobbies, beliefs etc. Facebook provides a feedback of the targeted audience size.
+
+1. Use the Audience Builder to find out how many students at your university are interested in cats vs dogs.
+
+2. Use the Audience Builder to construct the audience for a political ad of a party of your choice.
 
 ### References
 
@@ -70,3 +77,10 @@ von Oertzen, C. (2017). Machineries of Data Power: Manual versus Mechanical Cens
 
 
 ## Reading
+
+### Psychological targeting as an effective approach to digital mass persuasion
+
+### Weapons of Math Destruction
+
+Cathy O'Neill
+
