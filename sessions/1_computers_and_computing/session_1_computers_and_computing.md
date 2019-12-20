@@ -29,7 +29,7 @@ Each student then gives a brief summary of the article they read, which is follo
 
 :point_right: See [articles and papers](reading/articles.md) that have been picked by students
 
-Works cited:
+### Works cited
 
 Dreyfus, H. (1972). What Computers Can’t Do. Retrieved from https://archive.org/details/whatcomputerscan017504mbp
 
