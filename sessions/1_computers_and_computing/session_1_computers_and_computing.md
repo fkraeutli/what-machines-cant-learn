@@ -40,7 +40,7 @@ Each student then gives a brief summary of the article they read, which is follo
 
 :point_right: See [articles and papers](reading/articles.md) that have been picked by students
 
-:point_right: Bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
+:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
 
 ## Hands-On
 As a hands-on exercise, I gave a brief introduction to [Jupyter Notebooks](https://jupyter.org/) as some of the later exercises will make use of this. I suggested students to use [Google Colaboratory](https://colab.research.google.com/) as it comes already preloaded with many popular machine learning libraries and provides access to GPU and TPU powered cores.
