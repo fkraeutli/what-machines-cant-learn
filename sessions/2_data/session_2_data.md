@@ -133,3 +133,10 @@ The chapter presents how diploma mills and payday loan lenders develop and emplo
 
 
 ## Hands-On Exercise
+
+Students are invited to analyse their Facebook comments through basic Natural Language Processing methods implemented in a Python notebook using [NLTK](https://www.nltk.org/).
+The input JSON file is read and prepared for analysis by removing stop words. A statistical look at the vocabulary used provides initial insights. The pre-processed text can then be analysed in, for instance, using [Voyant](https://voyant-tools.org/).
+
+### Files
+
+- [Facebook\_Analysis.ipynb](./hands_on/Facebook_Analysis.ipynb)
