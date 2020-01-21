@@ -99,7 +99,7 @@ _Mikaela Pitcan, Alice E. Marwick, Danah Boyd_
 
 Pitcan, M., Marwick, A. E., & Boyd, D. (2018). Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World. Journal of Computer-Mediated Commuication, 23, 163–179. https://doi.org/10.1093/jcmc/zmy008
 
-This paper gives voice to young people of low socio-economic status in New York who describe the strategies they (have to) use when presenting themseves on social media platforms.
+This paper gathers the experiences of young people of low socio-economic status in New York who describe the strategies they (have to) use when presenting themseves on social media platforms.
 
 Rather than expressing their personality, they edit themselves to appear respectable towards a white middle and upper class audience. This includes "using standard English rather than African-American vernacular English" and not uploading photographs that could be used to make them appear less respectable:
 
@@ -125,7 +125,11 @@ _Cathy O'Neill_
 
 O’Neill, C. (2016). Chapter 4: Propaganda Machine. In _Weapons of Math Destruction_. New York: Crown.
 
+In her book O'Neill discusses the harmful effects of algorithms, specifically those that she characterises as Weapons of Math Destruction (WMDs): algorithms that are opaque, unregulated and applied at large scale.
 
+The fourth chapter, Propaganda Machine, describes how for-profit universities use online advertisement to target vulnerable people and people of low socio-economic background. Government rules allow students to cover up to 90% of their tuition fees through loans, which means that poor students are exploited twice: they are sold both poor education and unfavorable student loans.
+
+The chapter presents how diploma mills and payday loan lenders develop and employ WMDs with damaging effects for people's lives.
 
 
 ## Hands-On Exercise
