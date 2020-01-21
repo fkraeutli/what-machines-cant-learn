@@ -2,7 +2,11 @@
 
 # Seminar Structure
 
-## Session 1: Computers and Computing
+## Sessions
 
-- [Summary](./1_computers_and_computing/session_1_computers_and_computing.md)
-- [Slides](./1_computers_and_computing/lecture/slides_computers_and_computing.md)
+1. [Computers and Computing](./1_computers_and_computing/session_1_computers_and_computing.md)
+2. [Data](./2_data/session_2_data.md)
+3. Artificial Intelligence
+4. Machine Learning
+5. Machine Creativity
+6. AI Ethics
