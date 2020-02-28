@@ -16,6 +16,7 @@
     * [Psychological targeting as an effective approach to digital mass persuasion](#psychological-targeting-as-an-effective-approach-to-digital-mass-persuasion)
     * [Weapons of Math Destruction](#weapons-of-math-destruction)
 * [Hands-On Exercise](#hands-on-exercise)
+	* [Files](#files)
 
 ## Lecture
 
