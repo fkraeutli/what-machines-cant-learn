@@ -11,7 +11,7 @@ before we start with Artificial Intelligence, a brief look at predominant theori
 
 For this lecture I heavily draw on what I learnt in the seminars of [Prof. Mark Bishop](https://www.gold.ac.uk/computing/staff/m-bishop/) during the Cognitive Computing MSc at Goldsmiths, University of London.
 
-The information compiled here stems from the slides which are still available on the [course website](http://www.doc.gold.ac.uk/~mas02mb/Cognitive%20Computing/) (unfortenately the course no longer exists).
+The information compiled here stems from the slides which are still available on the [course website](http://www.doc.gold.ac.uk/~mas02mb/Cognitive%20Computing/) (unfortunately the course no longer exists).
 
 
 ---
