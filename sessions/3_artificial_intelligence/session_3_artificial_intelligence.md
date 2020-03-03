@@ -108,4 +108,15 @@ _Dreyfus, 1972, p. 156_
 
 ## Hands-On Exercise
 
+### ELIZA
+
+Download the [ELIZA source code](https://www.masswerk.at/elizabot/elizabot.zip) from Norbert Landsteiner's [website](https://www.masswerk.at/elizabot/).
+Try to understand the structure of ELIZA's data in `elizadata.js`. Add some new answers and try to reach them through the chatbot's interface. Try to change ELIZA's personality.
+
+### Building a Simple Chatbot from Scratch in Python (using NLTK)
+
+A Jupyter Notebook implementation of [Parul Pandey's Chatbot example](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e).
+
 ### Files
+
+- [ChatBot.ipynb](./hands_on/ChatBot.ipynb)
