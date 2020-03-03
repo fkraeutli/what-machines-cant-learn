@@ -12,7 +12,7 @@
 
 This session introduces the topic of Artificial Intelligence through a philosophical and historical lens. The dominant theories of mind at the time the first artificial intelligence systems were implemented on modern computers are presented. It argues that the understanding of computing informed the understanding of the mind, and not the other way around. Researchers wanted to see the human mind as something that can, in principle, be implemented on a machine and theories of mind that would allow this were favoured.
 
-++TODO: History of GOFAI intro+
+The historical lecture introduces some of the first AI applications. Two competing approaches emerged: Symbolic AI, which is operates on an internal representation of the world based on pre-defined rules, and Connectionist AI, which derives the rules it operates on based on real-world examples. Symbolic AI emerges as the winner in this first competition. The lecture outlines the reasons for its success and subsequent demise.
 
 ### Theories of Mind
 
