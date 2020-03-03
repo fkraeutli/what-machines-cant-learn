@@ -38,6 +38,24 @@ The limits of symbolic AI however became all to eminent when it failed to live u
 
 However, symbolic AI failed not because it did not offer suitable and, for specific problems, very potent methods, but because their creators claimed that it could do much more than they were able to deliver. We see similar levels of over-promising and under-delivering in current machine learning hypes, too, which apply connectionist approaches.
 
+### In-class exercises
+
+The following exercises appear in the lecture slides and can be done with the entire class. 
+
+#### ELIZA
+
+A recreation of the original Eliza chatbot by Joseph Weizenbaum in a web-based implentation created by Norbert Landsteiner can be accessed here: https://www.masswerk.at/elizabot/
+
+Even without coding skills it is worth to look at the source code, which can be downloaded on the same page. The code includes mainly two files. `elizabot.js` contains the programmes logic, while `elizadata.js` contains the chatbot's answers along with placeholders where elements of the user's questions are inserted.
+
+Looking at the source code one can see how the chatbot's logic is relatively simple, while a lot of effort and thinking must have gone into the writing of the data. Weizenbaum must have carefuly outlined the possible trajectories a conversation might take and crafted answers that seem to take into account the user's inputs, but remain general enough to not require true understanding of the conversation.
+
+#### Tensorflow Playground
+
+Use the [Tensorflow Playground](
+http://playground.tensorflow.org/) to recreate Rosenblatt's Perceptron, a one layer neural network with inputs for the X and Y coordinates. Try to solve one of the patterns that are not linearly separable, observing that a solution cannot be found without adding additional hidden layers.
+
+
 ## Reading
 
 ## Hands-On Exercise
