@@ -7,6 +7,9 @@
     * [Exercise 1: ELIZA](#exercise-1-eliza)
     * [Exercise 2: Tensorflow Playgruond](#exercise-2-tensorflow-playground)
 * [Reading](#reading)
+    * [Is Metabolism Necessary?](#is-metabolism-necessary)
+    * [Minds, Brains, and Programs](#minds-brains-and-programs)
+    * [What Computers Can't Do](#what-computers-cant-do)
 * [Hands-On Exercise](#hands-on-exercise)
 	* [Files](#files)
 
