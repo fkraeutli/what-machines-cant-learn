@@ -24,7 +24,8 @@ AI-compatible theories of mind were therefore representational theories of mind.
 
 Alternatives to a representational theory of mind would be, for instance, [Direct Realism](https://en.wikipedia.org/wiki/Na%C3%AFve_realism), which argues against internal representation in favour of direct experience of the material world, and [embodied theories of mind](https://en.wikipedia.org/wiki/Embodied_cognition), which argue that cognition arises from the direct (bodily) interaction with the world. (Personally I am a defendent of these views)
 
-The lecture introduces Dualism and Functionalism, two related theories of mind that in principle make true (strong) artificial intelligence possible.
+Dualism enables, in principle, to instantiate a mind independently of the physical world. Another requirement for the possibility of implementing a mind on a computer is to make the mind able to exist independently from brain substance. This requirement can be fulfilled through the theory of Functionalism, which argues that functional properties (of the mind) supervene on physical properties (of brain substance) and are therefore not dependent on them.
+
 
 ### History of Artificial Intelligence
 
