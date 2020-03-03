@@ -60,6 +60,49 @@ http://playground.tensorflow.org/) to recreate Rosenblatt's Perceptron, a one la
 
 ## Reading
 
+### Is Metabolism Necessary? 
+
+_Margaret A. Boden_
+
+Boden, Margaret A. (1999). Is Metabolism Necessary? British Journal for the Philosophy of Science, 50, 231–248.
+
+In this article Boden discusses the conditions for (strong) Artificial Life and its necessity for a physical body.
+
+> Metabolism is a criterion of life. Three senses are distinguished. The weakest allows strong A-Life: virtual creatures having physical existence in computer electronics, but not bodies, are classed as ‘alive.’ The second excludes strong A-Life but allows that some non-biochemical A-Life robots could be classed as alive. The third, which stresses the body’s self-production by energy budgeting and self-equilibrating energy exchanges of some (necessary) complexity, excludes both strong A-Life and living non-biochemical robots.
+
+_Boden, 1999, p. 1_
+
+### Minds, Brains, and Programs
+
+_John Searle_
+
+Searle, John R. (1980). Minds, brains, and programs. The Behavioural And Brain Sciences, 3, 417–457.
+
+This article presents John Searle's widely discussed Chinese Room argument. Searle presents a thought experiment in which a human sitting in a room answers questions in Chinese passed to him in writing by following a rule book without himself understanding Chinese. Searle argues therefore that even if a machine can converse in a way that appears intelligent, the machine itself does not understand the conversation.
+
+Searles article is a reaction to some of the chatbots that have been developed in this time, with some of their creators arguing that they made machines that truly understand the conversations.
+
+> I will consider the work of Roger Schank and his colleagues at Yale (Schank & Abelson 1977), because I am more familiar with it than I am with any other similar claims, and because it provides a very clear example of the sort of work I wish to examine. But nothing that follows depends upon the details of Schank's programs. The same arguments would apply to Winograd's SHRDLU (Winograd 1973), Weizenbaum's ELIZA (Weizenbaum 1965), and indeed any Turing machine simulation of human mental phenomena.
+
+Searle, 1980, p. 417
+
+### What Computers Can't Do
+
+_Hubert Dreyfus_
+
+Dreyfus, H. (1972). What Computers Can’t Do. MIT Press. https://archive.org/details/whatcomputerscan017504mbp
+
+Part II: Assumptions Underlying Persistent Optimism (pp. 155-186)
+
+This chapter of Dreyfus' book outlines four assumptions that underly (strong) artificial intelligence: 
+
+> 1. A biological assumption that on some level of operation – usually supposed to be that of the neurons – the brain processes information in discrete operations by way of some biological equivalent of on/off switches.
+>2. A psychological assumption that the mind can be viewed as a device operating on bits of information according to formal rules. Thus, in psychology, the computer serves as a model of the mind as conceived of by empiricists such as Hume (with the bits as atomic impressions) and idealists such as Kant (with the program providing the rules). Both empiricists and idealists have prepared the ground for this model of thinking as data processing – a third-person process in which the involvement of the "processor" plays no essential role. 
+> 3. An epistemological assumption that all knowledge can be formalized, that is, that whatever can be understood can be expressed in terms of logical relations, more exactly in terms of Boolean functions, the logical calculus which governs the way the bits are related according to rules.
+> 4. Finally, since all information fed into digital computers must be in hits, the computer model of the mind presupposes that all relevant information about the world, everything essential to the production of intelligent behavior, must in principle be analyzable as a set of situation-free determinate elements. This is the ontological assumption that what there is, is a set of facts each logically independent 
+
+_Dreyfus, 1972, p. 156_
+
 ## Hands-On Exercise
 
 ### Files
