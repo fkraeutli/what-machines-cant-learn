@@ -30,6 +30,14 @@ Dualism enables, in principle, to instantiate a mind independently of the physic
 
 > Slides: [History of Artificial Intelligence](lecture/slides_history_of_artificial_intelligence.md)
 
+This brief history of Artificial Intelligence begins with the coinage of the term through the 1956 Dartmouth College Summer Research Project. The lecture introduces two competing strands of Artificial Intelligence: Symbolic AI and Connectionist AI (the latter being synonymous with current Machine Learning techniques based on Neural Networks).
+
+Symbolic AI emerged as the winner during these first golden years of AI. Connectionist AI suffered from limited computing power, unavailability of training data and, not the least, lobbying and bullying against Frank Rosenblatt and his Perceptron, an early implementation of a neural network.
+
+The limits of symbolic AI however became all to eminent when it failed to live up to its promises. Connectionist AI did not perform well either, however. Although it was shown that multi-layer neural networks could in principle overcome some of the issues that critics of connectionist approaches outlined, a usable algorithm to train multi-layer networks was not developed until 1986.
+
+However, symbolic AI failed not because it did not offer suitable and, for specific problems, very potent methods, but because their creators claimed that it could do much more than they were able to deliver. We see similar levels of over-promising and under-delivering in current machine learning hypes, too, which apply connectionist approaches.
+
 ## Reading
 
 ## Hands-On Exercise
