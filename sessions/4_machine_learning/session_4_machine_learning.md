@@ -2,7 +2,6 @@
 
 # Session 4: Machine Learning
 
-
 * [Lecture](#lecture)
 * [Reading](#reading)
 * [Hands-On Exercise](#hands-on-exercise)
