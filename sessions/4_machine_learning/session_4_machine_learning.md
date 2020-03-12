@@ -9,6 +9,8 @@
 
 ## Lecture
 
+> Slides: [History of AI continued](lecture/slides_history_of_ai_continued.md)
+
 ## Reading
 
 ## Hands-On Exercise
