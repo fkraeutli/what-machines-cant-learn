@@ -23,7 +23,7 @@ The course is structured into eight sessions tackling the following six topics:
 1. [Computers and Computing](./sessions/1_computers_and_computing/session_1_computers_and_computing.md)
 2. [Data](./sessions/2_data/session_2_data.md)
 3. [Artificial Intelligence](./sessions/3_artificial_intelligence/session_3_artificial_intelligence.md)
-4. Machine Learning
+4. [Machine Learning](./sessions/4_machine_learning/session_4_machine_learning.md)
 5. Machine Creativity
 6. AI Ethics
 
