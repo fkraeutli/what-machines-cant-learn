@@ -21,6 +21,14 @@ Despite the publication of the [Backpropagation](https://en.wikipedia.org/wiki/B
 
 ### Introduction to Neural Networks
 
+* [Introduction](notes_0_introduction_to_neural_networks.md)
+* [Linear Functions](notes_1_linear_functions.md)
+* Modelling Data with Linear Functions
+* [Representing Functions as Computational Graphs](notes_3_functions_as_computational_graphs.md)
+* [Training a Computational Graph on Data](notes_4_training_a_computational_graph.md)
+* [Neural Networks](notes_5_neural_networks.md)
+
+
 ## Reading
 
 ## Hands-On Exercise
