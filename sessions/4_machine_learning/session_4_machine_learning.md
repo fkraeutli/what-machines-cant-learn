@@ -21,6 +21,14 @@ Despite the publication of the [Backpropagation](https://en.wikipedia.org/wiki/B
 
 ### Introduction to Neural Networks
 
+The second lecture outlines the mechanisms by which a neural network functions. Rather than employing the metaphor of neurons and the brain, neural networks are presented as a type of [computational graph](lecture/notes_3_functions_as_computational_graphs.md)) and a function for making predictions based on data.
+
+Students are introduced to (linear) functions and how they can be used to make predictions based on the technique of [linear regression](https://en.wikipedia.org/wiki/Linear_regression). Computational graphs are then introduced and the mechanisms of how an arbitrary computational graph can be used to model data is demonstrated using an [interactive tool]((lecture/exercise_1_computational_graph.md)).
+
+Finally, the distinct features of neural networks are outlined and the importance of the [activation function](https://en.wikipedia.org/wiki/Activation_function) for training them.
+
+The lecture uses a whiteboard and an [online exercise](lecture/exercise_1_computational_graph.md). The sketches and instructions are reproduced here:
+
 * [Introduction](lecture/notes_0_introduction_to_neural_networks.md)
 * [Linear Functions](lecture/notes_1_linear_functions.md)
 * [Modelling Data with Linear Functions](lecture/notes_2_modelling_data_with_linear_functions.md)
