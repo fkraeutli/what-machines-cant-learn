@@ -27,7 +27,7 @@ Students are introduced to (linear) functions and how they can be used to make p
 
 Finally, the distinct features of neural networks are outlined and the importance of the [activation function](https://en.wikipedia.org/wiki/Activation_function) for training them.
 
-The lecture uses a whiteboard and an [online exercise](lecture/exercise_1_computational_graph.md). The sketches and instructions are reproduced here:
+The lecture uses a whiteboard and an [online exercise](lecture/exercise_1_computational_graph.md). The sketches and explanations are reproduced here:
 
 * [Introduction](lecture/notes_0_introduction_to_neural_networks.md)
 * [Linear Functions](lecture/notes_1_linear_functions.md)
