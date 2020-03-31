@@ -16,7 +16,7 @@ In the [previous step](notes_4_training_a_computational_graph.md) we sketched th
 
 This is cumbersome to do manually so instead, you can use this toy example that implements the graph we sketched:
 
-https://codepen.io/fkraeutli/project/full/ZeWeNN
+:point_right: **Access exercise:** https://codepen.io/fkraeutli/project/full/ZeWeNN
 
 You can update the weights using the sliders and see how well the graph performs on the given data.
 
