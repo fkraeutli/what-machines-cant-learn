@@ -37,8 +37,35 @@ The lecture uses a whiteboard and an [online exercise](lecture/exercise_1_comput
 * [Computational Graph Exercise](lecture/exercise_1_computational_graph.md)
 * [Neural Networks](lecture/notes_5_neural_networks.md)
 
+### Further notes and resources
+
+We now know what a neural network is and how it functions. But how to train it? Here are some resources and example on neural network training:
+
+* Visit the [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=&seed=0.04538&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+* Train a Neural Network [in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* Train a Neural Network with your [webcam](https://teachablemachine.withgoogle.com)
+* Understand how why an image receives a certain label through this [reverse classification tool](https://lrpserver.hhi.fraunhofer.de/image-classification)
+* Explore examples of [Generative Adversarial Networks](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
+* Explore how individual neurons encode visual features using [SUMMIT](https://fredhohman.com/summit/)
 
 ## Reading
+
+This sessions reading focuses on an often overlooked aspect of machine learning and training data: the human labour involved in creating training datasets.
+
+### Neural nets are just people all the way down
+
+_Vicki Boykis_
+
+Boykis, V. (2019). Neural nets are just people all the way down. https://vicki.substack.com/p/neural-nets-are-just-people-all-the
+
+
+### Crowdproduktion von Trainingsdaten: Zur Rolle von Online-Arbeit beim Trainieren autonomer Fahrzeuge
+
+_Florian Alexander Schmidt_
+
+
+Schmidt, Florian A. (2019). Crowdproduktion von Trainingsdaten: Zur Rolle von Online-Arbeit beim Trainieren autonomer Fahrzeuge. Hans-Böckler-Stiftung. https://www.boeckler.de/pdf/p_study_hbs_417.pdf
+
 
 ## Hands-On Exercise
 
