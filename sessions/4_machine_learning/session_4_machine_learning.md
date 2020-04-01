@@ -47,6 +47,9 @@ We now know what a neural network is and how it functions. But how to train it? 
 * Understand how why an image receives a certain label through this [reverse classification tool](https://lrpserver.hhi.fraunhofer.de/image-classification)
 * Explore examples of [Generative Adversarial Networks](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
 * Explore how individual neurons encode visual features using [SUMMIT](https://fredhohman.com/summit/)
+* Explore the latent space of a GAN with [GANbreeder](https://artbreeder.com/)
+* Try a [demo](https://talktotransformer.com/) of the GPT-2 text prediction model.
+
 
 ## Reading
 
@@ -69,4 +72,22 @@ Schmidt, Florian A. (2019). Crowdproduktion von Trainingsdaten: Zur Rolle von On
 
 ## Hands-On Exercise
 
-### Files
+In the hands-on exercise students get to train a text generator model similar to, though not quite as powerful as, the [GPT-2](https://talktotransformer.com/) model that can be tried out in the browser.
+
+
+### Interactive textgenrnn Demo w/ GPU
+
+A Jupyter notebook to train a custom text generator model by [Max Woolf](https://minimaxir.com/)
+
+#### Files
+
+- Access and copy the Jupyter notebook here: https://colab.research.google.com/drive/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK
+
+### How to Develop a Word-Level Neural Language Model and Use it to Generate Text
+
+A Jupyter notebook based on the code of Jason Brownlees [blog post](https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/.). The code uses [Keras](https://keras.io/), a deep learning library for Python.
+
+#### Files
+
+- Train the model using [Keras_Text_Generator_Training.ipynb](hands_on/keras_text/Keras_Text_Generator_Training.ipynb)
+- Generate text using [Keras_Text_Generator_Run.ipynb](hands_on/keras_text/Keras_Text_Generator_Run.ipynb)
