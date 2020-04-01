@@ -13,8 +13,17 @@ The aim of the course is to equip students with the knowledge to **understand th
 :point_right: **Go directly to** [sessions](sessions/README.md)
 
 ![Title Image](titleImage.jpeg)
-_Image created by author with [RunwayML](http://www.runwayml.com) using the [BigGAN](https://github.com/agermanidis/biggan) model and upscaled using [ESRGAN](https://github.com/xinntao/ESRGAN)_
+_Image created by author with [RunwayML](http://www.runwayml.com) using the [BigGAN](https://github.com/agermanidis/biggan) model and upscaled using 
+[ESRGAN](https://github.com/xinntao/ESRGAN)_
 
+## Content
+
+- [Seminar Structure](#seminar-structure)
+  * [What you will find here](#what-you-will-find-here)
+- [About the Course](#about-the-course)
+  * [Target group](#target-group)
+  * [Grading and Outcomes](#grading-and-outcomes)
+- [Acknowledgements](#acknowledgements)
 
 ## Seminar Structure
 
