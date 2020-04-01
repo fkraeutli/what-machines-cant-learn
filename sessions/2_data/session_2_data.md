@@ -90,8 +90,9 @@ Onuoha, M. (2019, December 12). MimiOnuoha/missing-datasets. Retrieved 20 Decemb
 
 von Oertzen, C. (2017). Machineries of Data Power: Manual versus Mechanical Census Compilation in Nineteenth-Century Europe. Osiris, 32, 129–159.
 
-
 ## Reading
+
+:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/tags/Data/library)
 
 ### Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World
 

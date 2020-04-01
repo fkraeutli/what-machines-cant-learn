@@ -67,6 +67,8 @@ http://playground.tensorflow.org/) to recreate Rosenblatt's Perceptron, a one la
 
 ## Reading
 
+:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/tags/Artificial%20Intelligence/library)
+
 ### Is Metabolism Necessary? 
 
 _Margaret A. Boden_

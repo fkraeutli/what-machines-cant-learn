@@ -46,7 +46,7 @@ Each student then gives a brief summary of the article they read, which is follo
 
 :point_right: See [articles and papers](reading/articles.md) that have been picked by students
 
-:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/items/tag/Computers%20and%20Computing)
+:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/tags/Computers%20and%20Computing/library)
 
 ## Hands-On Exercise
 

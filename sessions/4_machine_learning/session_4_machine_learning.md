@@ -63,6 +63,8 @@ We now know what a neural network is and how it functions. But how to train it? 
 
 This sessions reading focuses on an often overlooked aspect of machine learning and training data: the human labour involved in creating training datasets.
 
+:point_right: Session bibliography on [Zotero](https://www.zotero.org/groups/2422637/what_machines_cant_learn/tags/Machine%20Learning/library)
+
 ### Neural nets are just people all the way down
 
 _Vicki Boykis_
