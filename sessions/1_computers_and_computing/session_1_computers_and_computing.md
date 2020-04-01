@@ -2,12 +2,11 @@
 
 # Session 1: Computers and Computing
 
-
-* [Lecture](#lecture)
-	* [Works cited](#works-cited)
-* [Reading](#reading)
-* [Hands-On Exercise](#hands-on-exercise)
-	* [Files](#files)
+- [Lecture](#lecture)
+  * [Works cited](#works-cited)
+- [Reading](#reading)
+- [Hands-On Exercise](#hands-on-exercise)
+  * [Files](#files)
 
 ## Lecture
 

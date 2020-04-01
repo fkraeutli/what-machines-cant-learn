@@ -3,9 +3,17 @@
 # Session 4: Machine Learning
 
 * [Lecture](#lecture)
+	+ [History of AI Continued](#history-of-ai-continued)
+	+ [Introduction to Neural Networks](#introduction-to-neural-networks)
+	+ [Further notes and resources](#further-notes-and-resources)
 * [Reading](#reading)
+	+ [Neural nets are just people all the way down](#neural-nets-are-just-people-all-the-way-down)
+	+ [Crowdproduktion von Trainingsdaten: Zur Rolle von Online-Arbeit beim Trainieren autonomer Fahrzeuge](#crowdproduktion-von-trainingsdaten--zur-rolle-von-online-arbeit-beim-trainieren-autonomer-fahrzeuge)
 * [Hands-On Exercise](#hands-on-exercise)
-	* [Files](#files)
+	+ [Interactive textgenrnn Demo w/ GPU](#interactive-textgenrnn-demo-w--gpu)
+		- [Files](#files)
+	+ [How to Develop a Word-Level Neural Language Model and Use it to Generate Text](#how-to-develop-a-word-level-neural-language-model-and-use-it-to-generate-text)
+		- [Files](#files-1)
 
 ## Lecture
 

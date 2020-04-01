@@ -2,21 +2,20 @@
 
 # Session 2: Data
 
-
-* [Lecture](#lecture)
-    * [Exercise 1: What data is produced when visiting a website](#exercise-1-what-data-is-produced-when-visiting-a-website)
-    * [Exercise 2: Explore data and traffic in Web Inspector](#exercise-2-explore-data-and-traffic-in-web-inspector)
-    * [Exercise 3: Manipulate data using Web Inspector](#exercise-3-manipulate-data-using-web-inspector)
-    * [Exercise 4: Download and inspect Facebook data](#exercise-4-download-and-inspect-facebook-data)
-    * [Exercise 5: Create a personality profile from Facebook data](#exercise-5-create-a-personality-profile-from-facebook-data)
-    * [Exercise 6: Find out what Facebook knows](#exercise-6-find-out-what-facebook-knows)
-    * [References](#references)
-* [Reading](#reading)
-    * [Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World](#performing-a-vanilla-self-respectability-politics-social-class-and-the-digital-world)
-    * [Psychological targeting as an effective approach to digital mass persuasion](#psychological-targeting-as-an-effective-approach-to-digital-mass-persuasion)
-    * [Weapons of Math Destruction](#weapons-of-math-destruction)
-* [Hands-On Exercise](#hands-on-exercise)
-	* [Files](#files)
+- [Lecture](#lecture)
+    + [Exercise 1: What data is produced when visiting a website](#exercise-1--what-data-is-produced-when-visiting-a-website)
+    + [Exercise 2: Explore data and traffic in Web Inspector](#exercise-2--explore-data-and-traffic-in-web-inspector)
+    + [Exercise 3: Manipulate data using Web Inspector](#exercise-3--manipulate-data-using-web-inspector)
+    + [Exercise 4: Download and inspect Facebook data](#exercise-4--download-and-inspect-facebook-data)
+    + [Exercise 5: Create a personality profile from Facebook data](#exercise-5--create-a-personality-profile-from-facebook-data)
+    + [Exercise 6: Find out what Facebook knows](#exercise-6--find-out-what-facebook-knows)
+  * [References](#references)
+- [Reading](#reading)
+  * [Performing a Vanilla Self: Respectability Politics, Social Class, and the Digital World](#performing-a-vanilla-self--respectability-politics--social-class--and-the-digital-world)
+  * [Psychological targeting as an effective approach to digital mass persuasion](#psychological-targeting-as-an-effective-approach-to-digital-mass-persuasion)
+  * [Weapons of Math Destruction](#weapons-of-math-destruction)
+- [Hands-On Exercise](#hands-on-exercise)
+  * [Files](#files)
 
 ## Lecture
 

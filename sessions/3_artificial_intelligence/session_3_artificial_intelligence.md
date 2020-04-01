@@ -2,16 +2,20 @@
 
 # Session 3: Artificial Intelligence
 
-
-* [Lecture](#lecture)
-    * [Exercise 1: ELIZA](#exercise-1-eliza)
-    * [Exercise 2: Tensorflow Playgruond](#exercise-2-tensorflow-playground)
-* [Reading](#reading)
-    * [Is Metabolism Necessary?](#is-metabolism-necessary)
-    * [Minds, Brains, and Programs](#minds-brains-and-programs)
-    * [What Computers Can't Do](#what-computers-cant-do)
-* [Hands-On Exercise](#hands-on-exercise)
-	* [Files](#files)
+- [Lecture](#lecture)
+  * [Theories of Mind](#theories-of-mind)
+  * [History of Artificial Intelligence](#history-of-artificial-intelligence)
+  * [In-class exercises](#in-class-exercises)
+    + [Exercise 1: ELIZA](#exercise-1--eliza)
+    + [Exercise 2: Tensorflow Playground](#exercise-2--tensorflow-playground)
+- [Reading](#reading)
+  * [Is Metabolism Necessary?](#is-metabolism-necessary-)
+  * [Minds, Brains, and Programs](#minds--brains--and-programs)
+  * [What Computers Can't Do](#what-computers-can-t-do)
+- [Hands-On Exercise](#hands-on-exercise)
+  * [ELIZA](#eliza)
+  * [Building a Simple Chatbot from Scratch in Python (using NLTK)](#building-a-simple-chatbot-from-scratch-in-python--using-nltk-)
+  * [Files](#files)
 
 ## Lecture
 
