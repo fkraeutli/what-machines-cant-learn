@@ -8,5 +8,5 @@
 2. [Data](./2_data/session_2_data.md)
 3. [Artificial Intelligence](./3_artificial_intelligence/session_3_artificial_intelligence.md)
 4. [Machine Learning](./4_machine_learning/session_4_machine_learning.md)
-5. Machine Creativity
+5. [Machine Creativity](./5_machine_creativity/session_5_machine_creativity.md)
 6. AI Ethics
